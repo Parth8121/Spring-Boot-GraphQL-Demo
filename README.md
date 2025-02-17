@@ -1,1 +1,1 @@
-# Spring-Boot-GraphQL-Demo
+# Spring Boot GraphQL Demo
